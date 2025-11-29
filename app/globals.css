@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary: #FFFCF2;
+    --secondary: #403D39;
+    --tertiary: #EB5E28;
+    --accent: #252422;
+    /* Legacy aliases */
+    --background: #FFFCF2;
+    --foreground: #252422;
+  }
+
+  body {
+    @apply bg-primary text-accent antialiased;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .transition-smooth {
+    transition: all 0.4s cubic-bezier(0.44, 0, 0.56, 1);
+  }
+}
