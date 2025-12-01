@@ -46,11 +46,11 @@ export default function ResumeSection() {
 
         <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 text-left">
           <div className="border-l-4 border-tertiary pl-6">
-            <p className="text-3xl font-display font-bold text-tertiary mb-2">10+</p>
+            <p className="text-3xl font-display font-bold text-tertiary mb-2">7+</p>
             <p className="text-secondary">Years of Experience</p>
           </div>
           <div className="border-l-4 border-tertiary pl-6">
-            <p className="text-3xl font-display font-bold text-tertiary mb-2">40+</p>
+            <p className="text-3xl font-display font-bold text-tertiary mb-2">10+</p>
             <p className="text-secondary">Engineers Led</p>
           </div>
           <div className="border-l-4 border-tertiary pl-6">
