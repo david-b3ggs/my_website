@@ -26,10 +26,10 @@ export default function AboutSection() {
               headless Shopify storefront supporting over 3M Products.
             </p>
             <p className="text-xl text-secondary leading-relaxed">
-              I have a generally eclectic technical background but at the heart of what I do is the desire
-              creatively engineer working solutions. I love building and I love building things that make a difference. 
+              I have a generally eclectic technical background but my passion lies in 
+              creatively engineering working solutions (I love a eureka moment). I love building and I love building things that make a difference. 
               I work now primarily on a managerial level in mid to large sized contexts, being a capable leader is something 
-              I've been passionate about for a long time. On a technical level I am functionally a senio full stack engineer and software 
+              I've been passionate about for a long time. On a technical level I am functionally a senior full stack engineer and software 
               architect with much to learn. 
             </p>
           </div>
