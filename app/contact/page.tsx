@@ -30,14 +30,14 @@ export default function ContactPage() {
                 >
                   LinkedIn
                 </a>
-                <a
+                {/* <a
                   href="https://github.com/yourusername"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-lg text-accent hover:text-tertiary transition-smooth font-bold"
                 >
                   GitHub
-                </a>
+                </a> */}
               </div>
             </div>
           </div>

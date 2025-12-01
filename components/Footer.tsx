@@ -18,14 +18,14 @@ export default function Footer() {
             >
               LinkedIn
             </a>
-            <a
+            {/* <a
               href="https://github.com"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-accent hover:text-tertiary transition-smooth"
             >
               GitHub
-            </a>
+            </a> */}
             <a
               href="mailto:david.beggs96@gmail.com"
               className="text-sm text-accent hover:text-tertiary transition-smooth"
