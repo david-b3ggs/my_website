@@ -7,6 +7,7 @@ frontend:
     build:
       commands:
         - npm run build
+	- cp ./.next/required-server-files.json ./out/
   artifacts:
     baseDirectory: out
     files:
