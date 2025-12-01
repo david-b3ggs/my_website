@@ -8,10 +8,9 @@ export default function Hero() {
           <h2 className="text-3xl md:text-5xl font-display text-tertiary mb-4">
             David W. Beggs V
           </h2>
-          <p className="text-base md:text-lg text-secondary max-w-2xl">
-            Placeholder text about David. This section can include a brief introduction,
-            current role, or a compelling statement about your professional focus and expertise.
-          </p>
+          {/* <p className="text-base md:text-lg text-secondary max-w-2xl">
+            I build products, scale teams, scale systems. I'm passion
+          </p> */}
         </div>
 
         <div>
