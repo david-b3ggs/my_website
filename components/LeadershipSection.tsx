@@ -27,7 +27,7 @@ const leadershipAreas: LeadershipArea[] = [
     title: 'My Management Style',
     description: 'Feature and initiative oriented, connecting engineers to business impact, and giving individual contributors space to do so.',
     highlights: [
-      'Created a culture of owmnership, personal responsibility, high performance, and freedom.',
+      'Created a culture of ownership, personal responsibility, high performance, and freedom.',
       'Simple effective soulutions that highlight progress over perfection',
       'Established clear, open channels of communication and responsibility distribution',
       'Built culture of experimentation and continuous learning',
