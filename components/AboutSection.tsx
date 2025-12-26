@@ -14,23 +14,23 @@ export default function AboutSection() {
               engineering cultures where people do their best work.
             </p>
             <p className="text-xl text-secondary leading-relaxed">
-              In college I interned creating internal logistics tooling software for JB Hunt 
-              and built infrastructure for email processing at CBORD. After graduation I spent a year 
-              working on military communication systems for large scale missionized aircraft. My security 
-              clearence has since expired.   
+              In college, I interned building internal logistics tooling at JB Hunt 
+              and developed email processing infrastructure at CBORD. After graduation, I spent a year 
+              working on military communication systems for large-scale mission aircraft. My security 
+              clearance has since expired.
             </p>
             <p className="text-xl text-secondary leading-relaxed">
-              Immediately after I went to help start Influxer as employee #1
-              and a founding engineer. We are an e-commerce platform that dynamically generates storefronts, 
-              has a custom fulfillment pipeline, a custom CRM, an iOS application, a web application, and a
-              headless Shopify storefront supporting over 3M Products.
+              I then joined Influxer as employee #1 and founding engineer, helping build 
+              an e-commerce platform with dynamically generated storefronts, 
+              a custom fulfillment pipeline, a custom CRM, iOS and web applications, and a
+              headless Shopify storefront supporting over 3M products.
             </p>
             <p className="text-xl text-secondary leading-relaxed">
-              I have a generally eclectic technical background but my passion lies in 
-              creatively engineering working solutions (I love a eureka moment). I love building and I love building things that make a difference. 
-              I work now primarily on a managerial level in mid to large sized contexts, being a capable leader is something 
-              I've been passionate about for a long time. On a technical level I am functionally a senior full stack engineer and software 
-              architect with much to learn. 
+              I have an eclectic technical background, but my passion lies in 
+              creatively engineering solutions (I love a eureka moment).
+              I now work primarily at a managerial level in mid to large-sized organizations—being a capable leader is something 
+              I've been passionate about for years. Technically, I'm a senior full-stack engineer and software 
+              architect with much still to learn.
             </p>
           </div>
 
