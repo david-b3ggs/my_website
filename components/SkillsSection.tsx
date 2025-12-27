@@ -26,7 +26,7 @@ const skillCategories: SkillCategory[] = [
   },
   {
     title: 'Tools & Platforms',
-    skills: ['Git','Datadog', 'Claude Code', 'GitHub Actions'],
+    skills: ['Git','Datadog', 'Claude Code', 'GitHub Actions', 'Selenium', 'Beautiful Soup'],
   },
   {
     title: 'Leadership',
