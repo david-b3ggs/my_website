@@ -17,7 +17,7 @@ const projects: Project[] = [
     title: 'Influxer Platform Architecture and Creation',
     description: 'Architected a scalable event based system to support storefront creation from 0 to 50k athletes with headless Shopify + additional sales channels.',
     technologies: ['Python', 'Go', 'MySQL', 'AWS', 'Shopify', 'Cloudflare'],
-    impact: 'Scaled from 0 to 9.5M+ Revenue',
+    impact: 'Scaled from 0 to 15M+ Revenue',
   },
   {
     id: 2,
